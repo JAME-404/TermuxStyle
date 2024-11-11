@@ -23,10 +23,6 @@ cd ~/; pkg update -y && pkg upgrade -y; command -v git > /dev/null || pkg instal
 <br>
 <p align="center">
 
-### [+] Warring
-
-**This tool is developed for educational purposes.**
-
 
 ## [~] Find Me on :
 
