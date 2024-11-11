@@ -1,6 +1,6 @@
 <h2>Termux Style Tool</h2>
 
-![Termux Style Tool]https://raw.githubusercontent.com/JAME-404/TermuxStyle/refs/heads/Files/logo.gif)
+![Termux Style Tool](https://raw.githubusercontent.com/JAME-404/TermuxStyle/refs/heads/Files/logo.gif)
 
 ## [+] Installation :
 ```
