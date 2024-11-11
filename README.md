@@ -1,16 +1,18 @@
 <h2>Termux Style Tool</h2>
 
 
-### [+] Installation
+### [+] Installation :
 
-- `cd ~/`
-- `pkg update -y && pkg upgrade -y`
-- `command -v git > /dev/null || pkg install git -y`
-- `command -v python3 > /dev/null || pkg install python 3 -y`
-- `git clone https://github.com/JAME-404/TermuxStyle`
-- `cd TermuxStyle`
-- `chmod 777 *`
-- `python3 termux.py`
+- ```
+cd ~/
+pkg update -y && pkg upgrade -y
+command -v git > /dev/null || pkg install git -y
+command -v python3 > /dev/null || pkg install python 3 -y
+git clone https://github.com/JAME-404/TermuxStyle
+cd TermuxStyle
+chmod 777 *`
+python3 termux.py
+```
 
 ### [+] Warring
 
